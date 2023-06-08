@@ -1,7 +1,7 @@
 | Sira | Proje Adı | Proje Linki | Veri Seti |
 | ---- | --------- | ----------- | --------- |
 | 1. | Waste Classification | [Link](https://github.com/thealper2/Waste-Classification) | [Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data) |
-| 2. | Poker Hand Classification | [Link](https://github.com/thealper2/Poker-Hand-Classification) | [Kaggle](https://www.kaggle.com/datasets/rasvob/uci-poker-hand-dataset) |
+| 2. | Poker Hand Classification | [Link](https://github.com/thealper2/Poker-Hand-Classification) | [Kaggle](https://www.kaggle.com/datasets/rasvob/uci-poker-hand-dataset)a |
 | 3. | Organ Donor Prediction | [Link](https://github.com/thealper2/Organ-Donor-Prediction) | [Kaggle](https://www.kaggle.com/datasets/momohmustapha/donorsprediction)s |
 | 4. | Olympic Medal Prediction | [Link](https://github.com/thealper2/Olympic-Medal-Prediction) | [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) |
 | 5. | Natural Image Classification | [Link](https://github.com/thealper2/Natural-Image-Classification) | [Kaggle](https://www.kaggle.com/datasets/prasunroy/natural-images) |
